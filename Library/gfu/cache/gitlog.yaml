@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-12-07T18:37:28.876-05:00
+  initializedAtString: 2019-12-07T18:25:07.411-05:00
+  log:
+  - commitID: 33165dba471b86904a66926be26cd3c86663e18c
+    mergeA: 
+    mergeB: 
+    authorName: jasvir1224
+    authorEmail: 43081536+jasvir1224@users.noreply.github.com
+    commitEmail: 43081536+jasvir1224@users.noreply.github.com
+    commitName: jasvir1224
+    summary: Initial check-in of module Capstone_Project
+    description: 
+    timeString: 2019-12-07T18:20:24.000-05:00
+    commitTimeString: 2019-12-07T18:20:24.000-05:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerBullets.cs
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Scripts/PlayerBullets.cs
+      projectPath: Assets/Scripts/PlayerBullets.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMovement.cs
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Scripts/PlayerMovement.cs
+      projectPath: Assets/Scripts/PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Capstone_Project.sln
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Capstone_Project.sln
+      projectPath: Capstone_Project.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+      projectPath: Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
