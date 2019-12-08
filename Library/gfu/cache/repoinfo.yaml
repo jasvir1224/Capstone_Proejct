@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-12-07T18:37:28.730-05:00
+  lastUpdatedAtString: 2019-12-07T18:42:35.842-05:00
   initializedAtString: 2019-12-07T18:25:01.945-05:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: jasvirupdate
-    tracking: 
+    tracking: origin/jasvirupdate
   currentConfigBranch:
     name: jasvirupdate
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/jasvir1224/Capstone_Proejct.git
+    trackingBranch: jasvirupdate
   currentConfigRemote:
     name: origin
     url: https://github.com/jasvir1224/Capstone_Proejct.git

@@ -13,9 +13,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-07T18:41:10.986-05:00
+  lastUpdatedAtString: 2019-12-07T23:10:09.062-05:00
   initializedAtString: 2019-12-07T18:25:03.005-05:00
   entries:
+  - path: .vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    projectPath: .vs/Capstone_Project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Capstone_Project/xs/sqlite3/storage.ide
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/sqlite3/storage.ide
+    projectPath: .vs/Capstone_Project/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Capstone_Project/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/Capstone_Project/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Capstone_Project/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/Capstone_Project/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Capstone_Project/xs/UserPrefs.xml
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/.vs/Capstone_Project/xs/UserPrefs.xml
+    projectPath: .vs/Capstone_Project/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Prefabs/EnemyBullet.prefab
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Prefabs/EnemyBullet.prefab
+    projectPath: Assets/Prefabs/EnemyBullet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/EnemyBullet.prefab.meta
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Prefabs/EnemyBullet.prefab.meta
+    projectPath: Assets/Prefabs/EnemyBullet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/PlayerMovement.cs
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Scripts/PlayerMovement.cs
+    projectPath: Assets/Scripts/PlayerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Sprites/bullets.png.meta
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Sprites/bullets.png.meta
+    projectPath: Assets/Sprites/bullets.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Sprites/spaceships.png.meta
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Assets/Sprites/spaceships.png.meta
+    projectPath: Assets/Sprites/spaceships.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -46,3 +130,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade
+    projectPath: Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade.info
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade.info
+    projectPath: Library/metadata/23/23bf0d9b3c6144474b29e39cd1812ade.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/72/72ae82542f1d749bf8ae37ad255e8891
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/72/72ae82542f1d749bf8ae37ad255e8891
+    projectPath: Library/metadata/72/72ae82542f1d749bf8ae37ad255e8891
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb
+    projectPath: Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb.info
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb.info
+    projectPath: Library/metadata/7d/7dd58175cf63c434b834355e650dcbdb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751
+    projectPath: Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751.info
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751.info
+    projectPath: Library/metadata/dc/dcc31b592b91345d1a92c0f5afc87751.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/1b37fe-mainStage.json
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/StateCache/Hierarchy/1b37fe-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/1b37fe-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/acff3d-mainStage.json
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Library/StateCache/SceneView/acff3d-mainStage.json
+    projectPath: Library/StateCache/SceneView/acff3d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2c9a0fa5cb4f747e3bf57dd94aeb3b13
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/UnityTempFile-2c9a0fa5cb4f747e3bf57dd94aeb3b13
+    projectPath: Temp/UnityTempFile-2c9a0fa5cb4f747e3bf57dd94aeb3b13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4434142d50f0b4212b0904b4a26c1fb2
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/UnityTempFile-4434142d50f0b4212b0904b4a26c1fb2
+    projectPath: Temp/UnityTempFile-4434142d50f0b4212b0904b4a26c1fb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-73035a33481e84abe9077e802fb179c0
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/UnityTempFile-73035a33481e84abe9077e802fb179c0
+    projectPath: Temp/UnityTempFile-73035a33481e84abe9077e802fb179c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bd5634e433b234aee9f441cc890d21a3
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/UnityTempFile-bd5634e433b234aee9f441cc890d21a3
+    projectPath: Temp/UnityTempFile-bd5634e433b234aee9f441cc890d21a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f7efb9f30539242ce89c4589a0c522aa
+    fullPath: /Users/manjitsinghsidhu/Desktop/Capstone_Project/Temp/UnityTempFile-f7efb9f30539242ce89c4589a0c522aa
+    projectPath: Temp/UnityTempFile-f7efb9f30539242ce89c4589a0c522aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
