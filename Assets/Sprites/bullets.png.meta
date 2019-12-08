@@ -3,6 +3,7 @@ guid: 7dd58175cf63c434b834355e650dcbdb
 TextureImporter:
   fileIDToRecycleName:
     21300000: PlayerBullet
+    21300002: EnemyBullet
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -104,13 +105,33 @@ TextureImporter:
         width: 9
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 7c951f33623df49d9a4cbdc3470da3f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252656a9cf55a43c19575235eddff9c2
       vertices: []
       indices: 
       edges: []

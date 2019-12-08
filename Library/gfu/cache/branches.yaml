@@ -13,14 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-12-07T18:39:51.252-05:00
+  lastUpdatedAtString: 2019-12-07T20:56:32.994-05:00
   initializedAtString: 2019-12-07T18:25:29.366-05:00
   localBranches:
   - name: jasvirupdate
-    tracking: 
+    tracking: origin/jasvirupdate
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/jasvirupdate
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -38,9 +40,9 @@ MonoBehaviour:
     values:
     - name: jasvirupdate
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/jasvir1224/Capstone_Proejct.git
+      trackingBranch: jasvirupdate
     - name: master
       remote:
         name: origin
@@ -51,9 +53,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - jasvirupdate
       - master
     subKeyValues:
     - Values:
+      - name: jasvirupdate
+        remote:
+          name: origin
+          url: https://github.com/jasvir1224/Capstone_Proejct.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
